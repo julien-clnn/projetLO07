@@ -1,0 +1,26 @@
+
+body {
+    background-color: whitesmoke;
+}
+
+.container {
+    margin-top: 80px;
+    background-color: #e5e5e5;
+    width: 90%;
+    border-radius: 8px;
+}
+
+.jumbotron {
+    margin-top: 30px;
+    background-image: url("../image/fond-bleu.webp");
+    background-size: cover;
+}
+
+.signature {
+    background-color: #c1c1c1;
+}
+
+blockquote {
+    margin-left: 80px;
+    margin-right: 80px;
+}
